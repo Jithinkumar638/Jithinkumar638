@@ -1,0 +1,17 @@
+Input
+def checkEvenOdd(n):
+    if n%2==0:
+        return 1
+
+print("Enter a Number: ", end="")
+num = int(input())
+
+chk = checkEvenOdd(num)
+if chk==1:
+    print("Even Number")
+else:
+    print("Odd Number")
+
+Output
+Enter  the number :34
+Even number
