@@ -1,0 +1,10 @@
+Input
+i=int(input("enter any number "))
+if i>0:
+    print("Postive number")
+else:
+    print("Negative number")
+
+Out put
+Enter any number 13
+Positive number
