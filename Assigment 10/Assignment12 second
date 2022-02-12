@@ -1,0 +1,14 @@
+Input
+a=int(input('enter a value:'))
+b=int(input('enter b value:'))
+if(a==b):
+   print('equal')
+else:
+     if a>b:
+         print('not equal a is big')
+     else:
+         print('not equal b is big')
+Out put
+enter a value:20
+enter b value:52
+not equal b is big
